@@ -1,0 +1,8 @@
+C:\Users\Gandalf\Documents\_SWE101_Code\DataTypes\DataTypes_2\bin\Debug\DataTypes_2.exe.config
+C:\Users\Gandalf\Documents\_SWE101_Code\DataTypes\DataTypes_2\bin\Debug\DataTypes_2.exe
+C:\Users\Gandalf\Documents\_SWE101_Code\DataTypes\DataTypes_2\bin\Debug\DataTypes_2.pdb
+C:\Users\Gandalf\Documents\_SWE101_Code\DataTypes\DataTypes_2\obj\Debug\DataTypes_2.csproj.AssemblyReference.cache
+C:\Users\Gandalf\Documents\_SWE101_Code\DataTypes\DataTypes_2\obj\Debug\DataTypes_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gandalf\Documents\_SWE101_Code\DataTypes\DataTypes_2\obj\Debug\DataTypes_2.csproj.CoreCompileInputs.cache
+C:\Users\Gandalf\Documents\_SWE101_Code\DataTypes\DataTypes_2\obj\Debug\DataTypes_2.exe
+C:\Users\Gandalf\Documents\_SWE101_Code\DataTypes\DataTypes_2\obj\Debug\DataTypes_2.pdb
