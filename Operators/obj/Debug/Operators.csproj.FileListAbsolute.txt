@@ -1,0 +1,8 @@
+C:\Users\Gandalf\Documents\_SWE101_Code\Logical Operators\New folder\Operators\bin\Debug\Operators.exe.config
+C:\Users\Gandalf\Documents\_SWE101_Code\Logical Operators\New folder\Operators\bin\Debug\Operators.exe
+C:\Users\Gandalf\Documents\_SWE101_Code\Logical Operators\New folder\Operators\bin\Debug\Operators.pdb
+C:\Users\Gandalf\Documents\_SWE101_Code\Logical Operators\New folder\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\Gandalf\Documents\_SWE101_Code\Logical Operators\New folder\Operators\obj\Debug\Operators.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gandalf\Documents\_SWE101_Code\Logical Operators\New folder\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\Gandalf\Documents\_SWE101_Code\Logical Operators\New folder\Operators\obj\Debug\Operators.exe
+C:\Users\Gandalf\Documents\_SWE101_Code\Logical Operators\New folder\Operators\obj\Debug\Operators.pdb
