@@ -1,0 +1,8 @@
+C:\Users\Gandalf\Documents\_SWE101_Code\Logical Operators\New folder\ObjectProgramming\bin\Debug\ObjectProgramming.exe.config
+C:\Users\Gandalf\Documents\_SWE101_Code\Logical Operators\New folder\ObjectProgramming\bin\Debug\ObjectProgramming.exe
+C:\Users\Gandalf\Documents\_SWE101_Code\Logical Operators\New folder\ObjectProgramming\bin\Debug\ObjectProgramming.pdb
+C:\Users\Gandalf\Documents\_SWE101_Code\Logical Operators\New folder\ObjectProgramming\obj\Debug\ObjectProgramming.csproj.AssemblyReference.cache
+C:\Users\Gandalf\Documents\_SWE101_Code\Logical Operators\New folder\ObjectProgramming\obj\Debug\ObjectProgramming.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gandalf\Documents\_SWE101_Code\Logical Operators\New folder\ObjectProgramming\obj\Debug\ObjectProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Gandalf\Documents\_SWE101_Code\Logical Operators\New folder\ObjectProgramming\obj\Debug\ObjectProgramming.exe
+C:\Users\Gandalf\Documents\_SWE101_Code\Logical Operators\New folder\ObjectProgramming\obj\Debug\ObjectProgramming.pdb
